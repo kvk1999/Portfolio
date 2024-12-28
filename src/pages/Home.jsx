@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import profileImage from "../assets/hero.png";
+import profileImage from "../assets/hero.jpg";
 import resume from "../assets/resume.pdf";
 
 export default function Home() {
